@@ -1,0 +1,34 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  background-color: #f5f5f5;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.menuAssetGroup{box-sizing:border-box;display:block;clear:both;margin-left:50px}.menuAssetGroup>.menuAsset{display:block;position:relative;box-sizing:border-box;clear:both;padding:0 0 0 20px;background:0 0;margin-bottom:.714286em;font-family:Lato,Helvetica,Arial,sans-serif;font-size:14px;font-size:1.4rem;line-height:1.71429;font-weight:700}.menuAssetGroup:after{content:' ';display:block;clear:both;height:0}.menuAsset__linkText{padding:.25em 0 0}.menuAsset__image{display:block;width:auto;max-width:100%}.menuAsset__caption{display:block;position:absolute;top:0;left:20px;width:100%;padding:.285714em 0;max-width:144px;background-color:#1e1e1e;color:#71b43a;font-size:.8571em;line-height:1;text-align:center}@media (min-width:320px){.menuAssetGroup>.menuAsset{clear:none;float:left;width:50%}.menuAssetGroup>.menuAsset:nth-of-type(2n+1){clear:left}}@media (min-width:600px){.menuAssetGroup>.menuAsset{width:25%}.menuAssetGroup>.menuAsset:nth-of-type(2n+1){clear:none}.menuAssetGroup>.menuAsset:nth-of-type(4n+1){clear:left}}@media(min-width:769px){.menuAssetGroup{margin-left:-50px}.menuAssetGroup>.menuAsset{padding:0 0 0 24px}.menuAsset__caption{left:24px}}@media(min-width:1024px){.menuAssetGroup{margin-left:50px}
+
+    .icerik{
+        margin-left: 80px;
+        margin-right: 50px;
+    }
+    
+    .rsm {
+        width:500px;
+        height: 300px;
+        float: left;
+    }
+    
